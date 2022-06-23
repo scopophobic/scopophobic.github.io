@@ -1,0 +1,34 @@
+.fcontainer {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.links {
+  flex-direction: row-reverse;
+  background-color: lavender;
+  border: 2px solid black;
+  margin: 12px;
+  height: min-content;
+}
+
+.con2 {
+  display: flex;
+  flex-direction: row-reverse;
+
+  margin: 10px;
+}
+
+.title {
+}
+
+.image {
+  flex-wrap: wrap;
+}
+
+.shee {
+  display: flex;
+  justify-content: center;
+  border: 2px black solid;
+  border-radius: 10px;
+}
